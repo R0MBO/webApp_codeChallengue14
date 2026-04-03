@@ -1,0 +1,12 @@
+[theme]
+# Color principal del texto
+textColor = "#000000"
+
+# Color de fondo de la página principal
+backgroundColor = "#FFFFFF"
+
+# Color de fondo de la BARRA LATERAL (Sidebar)
+secondaryBackgroundColor = "#FF0080" 
+
+# Color de los botones y detalles interactivos
+primaryColor = "#0068C9"
